@@ -123,8 +123,8 @@ a:hover {
     font-weight: bold;
 }
 .product-image {
-    max-width: 34rem;
-    max-height: 34rem;
+    max-width: 24rem;
+    max-height: 24rem;
 }
 .product-rating {
     margin-bottom: 1rem;
